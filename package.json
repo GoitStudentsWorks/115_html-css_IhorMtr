@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node ./node_modules/vite/bin/vite.js",
-    "build": "vite build --base=/project-CodeCrushers/",
+    "build": "vite build --base=/115_html-css_IhorMtr/",
     "preview": "vite preview"
   },
   "devDependencies": {
